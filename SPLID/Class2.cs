@@ -8,5 +8,6 @@ namespace SPLID
 {
     internal class Users
     {
+        public string username;
     }
 }
